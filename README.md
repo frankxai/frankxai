@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:14B8A6&height=220&section=header&text=FrankX%20AI&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Architect%20%7C%20Creator%20Systems%20Builder&descAlignY=58" alt="FrankX AI banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:14B8A6&height=220&section=header&text=FrankX%20AI&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Creator-First%20AI%20Systems%20That%20Ship&descAlignY=58" alt="FrankX AI banner" />
 </p>
 
 <p align="center">
@@ -9,44 +9,57 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=880&lines=Building+AI+systems+that+turn+creators+into+shippers;Designing+multi-agent+workflows+for+real+output;Open+source+experiments+across+Creator+OS%2C+Arcanea%2C+and+MCP" alt="Typing summary" />
+  <img src="https://img.shields.io/github/followers/frankxai?style=for-the-badge&label=Followers&labelColor=0B1220&color=2563EB" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/frankxai/agentic-creator-os?style=for-the-badge&label=ACOS%20Stars&labelColor=0B1220&color=0F766E" alt="ACOS Stars" />
+  <img src="https://img.shields.io/github/last-commit/frankxai/frankx.ai-vercel-website?style=for-the-badge&label=Website%20Updated&labelColor=0B1220&color=B45309" alt="Website Updated" />
 </p>
 
-## What I Build
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frankxai/frankx.ai-vercel-website/main/public/images/readme-hero.png" alt="FrankX creator intelligence ecosystem" />
+</p>
 
-I design and ship AI systems for creators, builders, and teams that want practical execution over theory.
+## Creator Intelligence, Built for Real Output
 
-- Creator operating systems and agent workflows
-- Multi-agent architecture and MCP tooling
-- Open source playbooks for AI implementation
-- Education systems for AI-native creators and students
+I build AI systems for creators, students, and teams who want to go from ideas to shipped work.
 
-## Current Build Map (Validated: February 10, 2026)
+The focus is practical execution:
+- workflow design that removes friction
+- multi-agent architecture that scales
+- tooling that teams can run today
+- open source systems that teach by example
 
-| Track                 | Repositories                                                                                                                                                                                       | Focus                                                                |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Creator Systems       | [`agentic-creator-os`](https://github.com/frankxai/agentic-creator-os), [`claude-skills-library`](https://github.com/frankxai/claude-skills-library)                                               | End-to-end workflows, commands, skills, and agents for shipping      |
-| Arcanea Ecosystem     | [`arcanea`](https://github.com/frankxai/arcanea), [`arcanea-ai-app`](https://github.com/frankxai/arcanea-ai-app), [`arcanea-intelligence-os`](https://github.com/frankxai/arcanea-intelligence-os) | Creative intelligence, lore-native AI companions, production tooling |
-| Engineering + Tooling | [`mcp-doctor`](https://github.com/frankxai/mcp-doctor), [`production-agent-patterns`](https://github.com/frankxai/production-agent-patterns)                                                       | Diagnostics, optimization, and deployment patterns for agents        |
-| Platform + Content    | [`frankx.ai-vercel-website`](https://github.com/frankxai/frankx.ai-vercel-website), [`Starlight-Intelligence-System`](https://github.com/frankxai/Starlight-Intelligence-System)                   | Public site, product delivery, and intelligence system evolution     |
+## Ecosystem Architecture
 
-## Flagship Repositories
+| Layer | Purpose | Flagship Repositories |
+| --- | --- | --- |
+| Creator Operating System | End-to-end execution workflows for creators | [`agentic-creator-os`](https://github.com/frankxai/agentic-creator-os), [`claude-skills-library`](https://github.com/frankxai/claude-skills-library) |
+| Arcanea Intelligence Layer | Creative companion ecosystem and lore-native UX | [`arcanea`](https://github.com/frankxai/arcanea), [`arcanea-ai-app`](https://github.com/frankxai/arcanea-ai-app), [`arcanea-intelligence-os`](https://github.com/frankxai/arcanea-intelligence-os) |
+| MCP and Engineering Tooling | Diagnostics, optimization, and deployment patterns | [`mcp-doctor`](https://github.com/frankxai/mcp-doctor), [`production-agent-patterns`](https://github.com/frankxai/production-agent-patterns) |
+| Public Platform and Delivery | Website, products, and educational distribution | [`frankx.ai-vercel-website`](https://github.com/frankxai/frankx.ai-vercel-website), [`Starlight-Intelligence-System`](https://github.com/frankxai/Starlight-Intelligence-System) |
 
-| Repository                                                                   | Why it matters                                                              | Live metadata                                                                                                                                                                                             |
-| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`agentic-creator-os`](https://github.com/frankxai/agentic-creator-os)       | Core creator operating system with commands, skills, and agent workflows    | ![stars](https://img.shields.io/github/stars/frankxai/agentic-creator-os?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/frankxai/agentic-creator-os?style=flat-square)       |
-| [`arcanea`](https://github.com/frankxai/arcanea)                             | Open source creative intelligence framework and lore-based agent foundation | ![stars](https://img.shields.io/github/stars/frankxai/arcanea?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/frankxai/arcanea?style=flat-square)                             |
-| [`mcp-doctor`](https://github.com/frankxai/mcp-doctor)                       | MCP diagnostics and optimization tooling for Claude Code workflows          | ![stars](https://img.shields.io/github/stars/frankxai/mcp-doctor?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/frankxai/mcp-doctor?style=flat-square)                       |
-| [`claude-skills-library`](https://github.com/frankxai/claude-skills-library) | Skill packs that turn AI assistants into practical domain experts           | ![stars](https://img.shields.io/github/stars/frankxai/claude-skills-library?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/frankxai/claude-skills-library?style=flat-square) |
+## Flagship Systems
 
-## Working Principles
+| Repository | Why it matters | Live Signals |
+| --- | --- | --- |
+| [`agentic-creator-os`](https://github.com/frankxai/agentic-creator-os) | Creator-native operating system with commands, skills, and agents | ![stars](https://img.shields.io/github/stars/frankxai/agentic-creator-os?style=flat-square) ![updated](https://img.shields.io/github/last-commit/frankxai/agentic-creator-os?style=flat-square&label=updated) |
+| [`arcanea`](https://github.com/frankxai/arcanea) | Open source creative intelligence framework and companion stack | ![stars](https://img.shields.io/github/stars/frankxai/arcanea?style=flat-square) ![updated](https://img.shields.io/github/last-commit/frankxai/arcanea?style=flat-square&label=updated) |
+| [`mcp-doctor`](https://github.com/frankxai/mcp-doctor) | MCP server diagnostics and optimization tooling for Claude Code | ![stars](https://img.shields.io/github/stars/frankxai/mcp-doctor?style=flat-square) ![updated](https://img.shields.io/github/last-commit/frankxai/mcp-doctor?style=flat-square&label=updated) |
+| [`claude-skills-library`](https://github.com/frankxai/claude-skills-library) | Domain skills that make AI assistants operationally useful | ![stars](https://img.shields.io/github/stars/frankxai/claude-skills-library?style=flat-square) ![updated](https://img.shields.io/github/last-commit/frankxai/claude-skills-library?style=flat-square&label=updated) |
+| [`frankx.ai-vercel-website`](https://github.com/frankxai/frankx.ai-vercel-website) | Production delivery surface for products, learning, and community | ![stars](https://img.shields.io/github/stars/frankxai/frankx.ai-vercel-website?style=flat-square) ![updated](https://img.shields.io/github/last-commit/frankxai/frankx.ai-vercel-website?style=flat-square&label=updated) |
+| [`Starlight-Intelligence-System`](https://github.com/frankxai/Starlight-Intelligence-System) | Experimental track for next-gen orchestration and intelligence design | ![stars](https://img.shields.io/github/stars/frankxai/Starlight-Intelligence-System?style=flat-square) ![updated](https://img.shields.io/github/last-commit/frankxai/Starlight-Intelligence-System?style=flat-square&label=updated) |
 
-- Build practical systems that people can run today
-- Document architecture so others can reproduce it
-- Keep iteration tight: publish, measure, refine
-- Blend creative exploration with engineering discipline
+## Current Focus (Q1 2026)
 
-## Connect
+- Ship stronger creator workflows across ACOS and Arcanea
+- Expand MCP infrastructure patterns and reliability tooling
+- Publish implementation playbooks for enterprise and education
+- Keep the FrankX platform fast, clear, and creator-first
+
+## Work With Me
+
+- Build and launch creator-first AI systems
+- Design multi-agent workflows for your organization
+- Translate advanced architecture into clear execution playbooks
 
 - Website: [frankx.ai](https://frankx.ai)
 - YouTube: [@frankxai](https://www.youtube.com/@frankxai)
@@ -54,4 +67,4 @@ I design and ship AI systems for creators, builders, and teams that want practic
 
 ---
 
-If you are building creator-first AI systems, open an issue or start a discussion in any active repo.
+Profile snapshot last curated on February 12, 2026.
