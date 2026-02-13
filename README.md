@@ -22,11 +22,8 @@ I build agent systems, creative tooling, and open source infrastructure. Most of
 
 **[Arcanea](https://github.com/frankxai/arcanea)** — Open source creative intelligence framework. Agents, skills, and lore for AI-powered creative work.
 
-**[MCP Doctor](https://github.com/frankxai/mcp-doctor)** — Diagnostic tool for MCP servers. Find issues, optimize configuration, keep Claude Code running clean.
-
 **[AI Architect Academy](https://github.com/frankxai/ai-architect-academy)** — Guides and patterns for building AI Centers of Excellence.
 
-**[Production Agent Patterns](https://github.com/frankxai/production-agent-patterns)** — Same AI agent, six frameworks. Side-by-side implementations across OpenAI, Claude, LangGraph, AWS, Google, and Oracle.
 
 ### Organizations
 
@@ -37,7 +34,7 @@ I build agent systems, creative tooling, and open source infrastructure. Most of
 ### Current Focus
 
 - Automation workflows and AI architect patterns with coding agents
-- Multi-agent orchestration and MCP tooling for Claude Code
+- Multi-agent orchestration and MCP tooling for Claude Code, Codex, Gemini, Cline
 - Open source education for AI-native builders
 
 ---
