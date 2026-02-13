@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://frankx.ai"><img src="https://img.shields.io/badge/Website-frankx.ai-0EA5E9?style=for-the-badge&labelColor=0B1220" alt="Website" /></a>
   <a href="https://www.youtube.com/@frankxai"><img src="https://img.shields.io/badge/YouTube-FrankXAI-FF0000?style=for-the-badge&labelColor=0B1220" alt="YouTube" /></a>
-  <a href="https://www.linkedin.com/in/frankxai/"><img src="https://img.shields.io/badge/LinkedIn-FrankXAI-0A66C2?style=for-the-badge&labelColor=0B1220" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/frank-x-riemer/"><img src="https://img.shields.io/badge/LinkedIn-FrankXAI-0A66C2?style=for-the-badge&labelColor=0B1220" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
