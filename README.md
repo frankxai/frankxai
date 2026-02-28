@@ -5,7 +5,7 @@
 <h3 align="center">Frank Riemer</h3>
 
 <p align="center">
-  Oracle-certified AI Architect. 12,000+ AI songs created. Building the open-source infrastructure stack for creators who work with AI.
+  Oracle-certified AI Architect. 12,000+ AI songs created. Building Intelligent Systems that empower Creators.
 </p>
 
 <p align="center">
