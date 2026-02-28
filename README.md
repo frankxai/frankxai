@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frankxai/frankxai/main/assets/profile-banner-v2.png" alt="FrankX — AI Architect · Creator · Builder" width="100%" />
+  <img src="https://raw.githubusercontent.com/frankxai/frankxai/main/assets/profile-banner-v3.png" alt="FrankX — AI Architect · Creator · Builder" width="100%" />
 </p>
 
 <h3 align="center">Frank Riemer</h3>
