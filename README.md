@@ -5,7 +5,7 @@
 <h3 align="center">Frank Riemer</h3>
 
 <p align="center">
-  Oracle-certified AI Architect. 12,000+ AI songs created. Building Intelligent Systems that empower Creators.
+ AI Architect. 12,000+ songs created with Vibe OS, 7 AI Ecosystems interconnected. Building Intelligent Systems that empower Creators.
 </p>
 
 <p align="center">
