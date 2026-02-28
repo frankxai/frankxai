@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frankxai/frankxai/main/assets/profile-banner-v7.png" alt="Starlight Intelligence System · Agentic Creator OS · Arcanea" width="100%" />
+  <img src="https://raw.githubusercontent.com/frankxai/frankxai/main/assets/profile-banner-v8.png" alt="Starlight Intelligence System · Agentic Creator OS · Arcanea" width="100%" />
 </p>
 
 <h3 align="center">Frank Riemer</h3>
