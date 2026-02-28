@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frankxai/frankxai/main/assets/profile-banner-v3.png" alt="FrankX — AI Architect · Creator · Builder" width="100%" />
+  <img src="https://raw.githubusercontent.com/frankxai/frankxai/main/assets/profile-banner-v4.png" alt="Starlight Intelligence System · Agentic Creator OS · Arcanea" width="100%" />
 </p>
 
 <h3 align="center">Frank Riemer</h3>
@@ -16,9 +16,9 @@
 
 ---
 
-Most AI tools are built *at* creators. I build systems that let creators work *with* AI as a real collaborator — persistent memory, multi-agent orchestration, tools that compound rather than reset.
+I came up through enterprise AI — Oracle Cloud solution design, AI Centers of Excellence, multi-agent systems that had to work at production scale. That foundation is what makes the creator tooling architecturally sound rather than just experimental.
 
-The result is three interlocking open-source projects. They form a complete stack.
+The open-source work is three interlocking projects that form a complete stack.
 
 ## The Stack
 
@@ -54,9 +54,9 @@ SIS provides memory. ACOS provides operation. Arcanea provides the world to buil
 
 ## Background
 
-I came to this through enterprise AI architecture — building AI Centers of Excellence on Oracle Cloud, designing multi-agent systems for organizations that needed AI to actually work rather than just demo well.
+Enterprise side: Oracle-certified AI Architect, solution design for AI Centers of Excellence, multi-cloud infrastructure, systems that need to work before they can scale. That work continues through [oci-ai-architects](https://github.com/oci-ai-architects).
 
-The creator tooling came from a simple problem: I was making music with AI (12,000+ songs and counting) and the toolchain was broken. Everything reset between sessions. Nothing remembered. No system that compounded over time. So I built SIS, ACOS, and Arcanea to fix that — and open-sourced the stack.
+Creator side: 12,000+ AI songs made, which meant living with broken tooling every day — sessions that reset, nothing that remembered, no system that compounded. So I built the stack to fix that. SIS, ACOS, and Arcanea are that stack, open-sourced.
 
 - Oracle-certified AI Architect
 - 12,000+ AI songs created
