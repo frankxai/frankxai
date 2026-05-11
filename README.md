@@ -5,7 +5,8 @@
 <h3 align="center">Frank Riemer</h3>
 
 <p align="center">
- AI Architect. 12,000+ songs created with Vibe OS, 7 AI Ecosystems interconnected. Building Intelligent Systems that empower Creators.
+ Builder. AI Architect. From Music Production, to Vibe Coding to Agentic Engineering and AI Centers of Excellence, 7 AI Ecosystems interconnected. 
+  Building Intelligent Systems that empower Creators.
 </p>
 
 <p align="center">
