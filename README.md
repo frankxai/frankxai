@@ -17,6 +17,7 @@
 
 ---
 
+Building houses and tought on construction sites, moved to building empires with my family and tribe. 
 I came up through enterprise AI — Oracle Cloud solution design, AI Centers of Excellence, multi-agent systems that had to work at production scale. That foundation is what makes the creator tooling architecturally sound rather than just experimental.
 
 The open-source work is three interlocking projects that form a complete stack.
