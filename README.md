@@ -23,6 +23,15 @@ I came up through enterprise AI — Oracle Cloud solution design, AI Centers of 
 
 The open-source work is one architecture, split across layers.
 
+## Skills, installable
+
+The distilled practices from this stack, straight from my working `~/.claude` directory:
+
+```sh
+npx skills add frankxai/skills           # architect lane — MCP, orchestration, model routing, context
+npx skills add frankxai/creator-skills   # creator lane — video routing, music, images, brand voice
+```
+
 ## The Stack
 
 | Layer | Project | What it does |
@@ -36,6 +45,7 @@ Hermes orchestrates. SIS remembers. ACOS operates. Arcanea is the world to build
 
 ## The Ecosystem at a Glance
 
+- **Skills** — [skills](https://github.com/frankxai/skills) (architect lane) · [creator-skills](https://github.com/frankxai/creator-skills) (creator lane) · [claude-skills-library](https://github.com/frankxai/claude-skills-library) (long-tail library)
 - **Creative platforms** — [Arcanea](https://github.com/frankxai/arcanea) · [AnimeLegends](https://github.com/frankxai/AnimeLegends-Skills) · [author-os](https://github.com/frankxai/author-os) · [arcanea-studio](https://github.com/frankxai/arcanea-studio)
 - **Open standards** — [agentic-operating-system-standard](https://github.com/frankxai/agentic-operating-system-standard) (SIP) · [starlight](https://github.com/frankxai/starlight) · [starlight-evals](https://github.com/frankxai/starlight-evals)
 - **Intelligence Systems** — SIP-conformant domain substrates: [health](https://github.com/frankxai/health-intelligence-system) · [research](https://github.com/frankxai/research-intelligence-os) · [library](https://github.com/frankxai/library-os) · [mind](https://github.com/frankxai/agentic-mind-os) · [music](https://github.com/frankxai/agentic-music-os) · [ocean](https://github.com/frankxai/blue-life-commons)
