@@ -20,7 +20,7 @@ Everything is built on one three-layer spine. New products are **consumers** of 
             └─────────────────────────────────────────────┘
                                 │ dispatched by
             ┌─────────────────────────────────────────────┐
-  ORCHESTRATE  │  Hermes — governed intent → verified PR    │  ← the control plane
+  CONTROL      │  Hermes — profile specs + verified PR flow  │  ← private control plane, public notes
             └─────────────────────────────────────────────┘
                                 │ reads / writes
             ┌─────────────────────────────────────────────┐
@@ -30,7 +30,7 @@ Everything is built on one three-layer spine. New products are **consumers** of 
 
 | Layer | Project | Role |
 |-------|---------|------|
-| Orchestrate | [hermes](https://github.com/frankxai/hermes) | Sovereign Agent OS. Turns intent into a verified, attested PR. Branch isolation, verify gate, audit trail. Composes SIS + AIS. |
+| Control | Hermes *(private)* · [awesome-hermes-agents](https://github.com/frankxai/awesome-hermes-agents) | Profile specs, branch isolation, verification gates, PR discipline, and public operator notes for Hermes Agent workflows. |
 | Remember | [Starlight-Intelligence-System](https://github.com/frankxai/Starlight-Intelligence-System) | The memory + governance substrate. Defines **SIP** (the open conformance protocol everything else declares against). |
 | Operate | [agentic-creator-os](https://github.com/frankxai/agentic-creator-os) | 90+ skills, 38 agents, 8 plugins. The runtime creators and agents actually execute. |
 | Standard | [agentic-operating-system-standard](https://github.com/frankxai/agentic-operating-system-standard) | The public spec: modules, agents, skills, workflows, loops, ledgers, gates. |
@@ -119,7 +119,7 @@ The same Arcanea intelligence (Guardians, Elements, Gates) projected onto every 
 - **SIP conformance** — every Intelligence System and OS declares conformance to [agentic-operating-system-standard](https://github.com/frankxai/agentic-operating-system-standard).
 - **Naming** — `<domain>-intelligence-system` = substrate · `<domain>-agent-skills` = skills · `<domain>-mcp` = server · `awesome-<domain>-agent-skills` = curated index.
 - **Memory** — products persist through SIS; nothing invents its own memory layer.
-- **Governance** — repo mutations flow through Hermes: intent → branch → verify → PR → trace.
+- **Governance** — repo mutations should follow the Hermes control-plane pattern: intent → branch → verify → PR → trace.
 
 ---
 

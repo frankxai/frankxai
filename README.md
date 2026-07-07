@@ -36,12 +36,12 @@ npx skills add frankxai/creator-skills   # creator lane — video routing, music
 
 | Layer | Project | What it does |
 |-------|---------|--------------|
-| **Orchestration** | [Hermes](https://github.com/frankxai/hermes) *(Sovereign Agent OS)* | The governed control plane. Turns intent into verified, attested PRs across any coding agent. Composes SIS + routing; never lets an executor touch `main`. |
+| **Control** | Hermes *(private control plane)* · [public notes](https://github.com/frankxai/awesome-hermes-agents) | Profile specs, task routing, verification gates, and PR discipline for agent work. The public repo documents the operating pattern; the private repo holds FrankX/Starlight implementation details. |
 | **Memory** | [Starlight Intelligence System](https://github.com/frankxai/Starlight-Intelligence-System) | Persistent context layer for AI agents. 5-layer cognitive architecture, behavioral learning from every session, specialist agents, memory vaults, platform adapters. |
 | **Operation** | [Agentic Creator OS](https://github.com/frankxai/agentic-creator-os) | The runtime. 90+ skills, 65+ commands, 38 agents, 8 plugins. Native to Claude Code; works with Cursor, Windsurf, Gemini CLI. |
 | **Universe** | [Arcanea](https://github.com/frankxai/arcanea) | Living creative intelligence. Guardian intelligences, context that compounds across sessions, mythology-infused world-building for creators who want to build something that lasts. |
 
-Hermes orchestrates. SIS remembers. ACOS operates. Arcanea is the world to build inside. They're not separate experiments — they're one stack. **[See the full ecosystem map →](https://github.com/frankxai/frankxai/blob/main/ECOSYSTEM.md)**
+Hermes governs agent work. SIS remembers. ACOS gives agents capabilities. Arcanea is the world and product surface to build inside. They're not separate experiments — they're one stack. **[See the full ecosystem map →](https://github.com/frankxai/frankxai/blob/main/ECOSYSTEM.md)**
 
 ## The Ecosystem at a Glance
 
@@ -56,7 +56,7 @@ Hermes orchestrates. SIS remembers. ACOS operates. Arcanea is the world to build
 
 Enterprise side: Oracle-certified AI Architect, solution design for AI Centers of Excellence, multi-cloud infrastructure, systems that need to work before they can scale. That work continues through [oci-ai-architects](https://github.com/oci-ai-architects).
 
-Creator side: 12,000+ AI songs made, which meant living with broken tooling every day — sessions that reset, nothing that remembered, no system that compounded. So I built the stack to fix that. Hermes, SIS, ACOS, and Arcanea are that stack, open-sourced.
+Creator side: 12,000+ AI songs made, which meant living with broken tooling every day — sessions that reset, nothing that remembered, no system that compounded. So I built the stack to fix that. SIS, ACOS, Arcanea, and the Hermes control-plane pattern are that stack, with public notes and selected implementation layers open-sourced.
 
 - Oracle-certified AI Architect
 - 12,000+ AI songs created
