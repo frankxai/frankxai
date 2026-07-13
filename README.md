@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://frankx.ai">frankx.ai</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://gencreator.ai">gencreator.ai</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/frank-x-riemer/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.youtube.com/@frankxai">YouTube</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/frankxai/frankxai/blob/main/ECOSYSTEM.md">The Ecosystem Map</a>
