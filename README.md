@@ -2,76 +2,89 @@
   <img src="https://raw.githubusercontent.com/frankxai/frankxai/main/assets/profile-banner-v8.png" alt="Starlight Intelligence System · Agentic Creator OS · Arcanea" width="100%" />
 </p>
 
-<h3 align="center">Frank Riemer</h3>
+<h1 align="center">Frank Riemer</h1>
 
 <p align="center">
- Builder. AI Architect. From Music Production, to Vibe Coding to Agentic Engineering and AI Centers of Excellence — interconnected AI ecosystems.
-  Building Intelligent Systems that empower Creators.
+  <strong>I build open-source intelligence systems for AI agents and creators.</strong>
 </p>
 
 <p align="center">
-  <a href="https://frankx.ai">frankx.ai</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://gencreator.ai">gencreator.ai</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/frank-x-riemer/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@frankxai">YouTube</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/frankxai/frankxai/blob/main/ECOSYSTEM.md">The Ecosystem Map</a>
+  Memory · orchestration · skills · MCP tools · creative workflows · AI Centers of Excellence
+</p>
+
+<p align="center">
+  <a href="https://frankx.ai">frankx.ai</a> ·
+  <a href="https://gencreator.ai">GenCreator</a> ·
+  <a href="https://www.linkedin.com/in/frank-x-riemer/">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@frankxai">YouTube</a> ·
+  <a href="https://github.com/frankxai/frankxai/blob/main/ECOSYSTEM.md">Ecosystem Map</a>
 </p>
 
 ---
 
-Building houses and taught on construction sites, moved to building empires with my family and tribe.
-I came up through enterprise AI — Oracle Cloud solution design, AI Centers of Excellence, multi-agent systems that had to work at production scale. That foundation is what makes the creator tooling architecturally sound rather than just experimental.
+## The core stack
 
-The open-source work is one architecture, split across layers.
+My public work is organized around three connected layers:
 
-## Skills, installable
+| Layer | Project | Purpose |
+|---|---|---|
+| **Intelligence** | [Starlight Intelligence System](https://github.com/frankxai/Starlight-Intelligence-System) | Memory, orchestration, governance, and evaluation for AI agents |
+| **Execution** | [Agentic Creator OS](https://github.com/frankxai/agentic-creator-os) | Skills, commands, agents, and workflows for AI-native creators |
+| **Creative surface** | [Arcanea](https://github.com/frankxai/arcanea) | Creative intelligence for worldbuilding, lore, learning, and imaginative work |
 
-The distilled practices from this stack, straight from my working `~/.claude` directory:
+These are not isolated experiments. Starlight provides the intelligence layer, Agentic Creator OS provides the capabilities, and Arcanea is one of the creative worlds and products built on top.
 
-```sh
-npx skills add frankxai/skills           # architect lane — MCP, orchestration, model routing, context
-npx skills add frankxai/creator-skills   # creator lane — video routing, music, images, brand voice
+## Start here
+
+- **[Starlight Intelligence System](https://github.com/frankxai/Starlight-Intelligence-System)** — Build agents that can remember, coordinate, verify, and improve.
+- **[Agentic Creator OS](https://github.com/frankxai/agentic-creator-os)** — Installable workflows for creators using Claude Code, Cursor, Codex, Gemini, and other agent runtimes.
+- **[Arcanea](https://github.com/frankxai/arcanea)** — A creative-intelligence platform for chat, lore, academy, and worldbuilding.
+- **[Claude Skills Library](https://github.com/frankxai/claude-skills-library)** — Professional skills that turn Claude into a domain expert.
+- **[Kura](https://github.com/frankxai/kura)** — Capture and carry creative intelligence across ChatGPT, Claude, Gemini, Grok, and Perplexity.
+- **[Starlight Creator MCP](https://github.com/frankxai/starlight-creator-mcp)** — A BYOK MCP engine for image, video, audio, taste, ledger, and publishing workflows.
+
+## Installable skills
+
+```bash
+npx skills add frankxai/claude-skills-library
+npx skills add frankxai/creator-skills
 ```
 
-## The Stack
+- **Architect lane:** MCP, orchestration, model routing, context, and agent operations
+- **Creator lane:** Video, music, images, brand voice, publishing, and creative production
 
-| Layer | Project | What it does |
-|-------|---------|--------------|
-| **Control** | Hermes *(private control plane)* · [public notes](https://github.com/frankxai/awesome-hermes-agents) | Profile specs, task routing, verification gates, and PR discipline for agent work. The public repo documents the operating pattern; the private repo holds FrankX/Starlight implementation details. |
-| **Memory** | [Starlight Intelligence System](https://github.com/frankxai/Starlight-Intelligence-System) | Persistent context layer for AI agents. 5-layer cognitive architecture, behavioral learning from every session, specialist agents, memory vaults, platform adapters. |
-| **Operation** | [Agentic Creator OS](https://github.com/frankxai/agentic-creator-os) | The runtime. 90+ skills, 65+ commands, 38 agents, 8 plugins. Native to Claude Code; works with Cursor, Windsurf, Gemini CLI. |
-| **Universe** | [Arcanea](https://github.com/frankxai/arcanea) | Living creative intelligence. Guardian intelligences, context that compounds across sessions, mythology-infused world-building for creators who want to build something that lasts. |
+## What I build
 
-Hermes governs agent work. SIS remembers. ACOS gives agents capabilities. Arcanea is the world and product surface to build inside. They're not separate experiments — they're one stack. **[See the full ecosystem map →](https://github.com/frankxai/frankxai/blob/main/ECOSYSTEM.md)**
+- **Agent infrastructure** — memory providers, orchestration, governance, evaluation, and portable skills
+- **Creator systems** — AI-native workflows for writing, music, video, design, publishing, and research
+- **Open intelligence systems** — reusable substrates for research, family history, health, marine life, learning, and knowledge work
+- **Creative products** — Arcanea, worldbuilding tools, publishing systems, and interfaces for human imagination
+- **AI architecture education** — practical patterns for production agents and AI Centers of Excellence
 
-## The Ecosystem at a Glance
+## Selected projects
 
-- **Skills** — [skills](https://github.com/frankxai/skills) (architect lane) · [creator-skills](https://github.com/frankxai/creator-skills) (creator lane) · [claude-skills-library](https://github.com/frankxai/claude-skills-library) (long-tail library)
-- **Creative platforms** — [Arcanea](https://github.com/frankxai/arcanea) · [AnimeLegends](https://github.com/frankxai/AnimeLegends-Skills) · [author-os](https://github.com/frankxai/author-os) · [arcanea-studio](https://github.com/frankxai/arcanea-studio)
-- **Open standards** — [agentic-operating-system-standard](https://github.com/frankxai/agentic-operating-system-standard) (SIP) · [starlight](https://github.com/frankxai/starlight) · [starlight-evals](https://github.com/frankxai/starlight-evals)
-- **Intelligence Systems** — SIP-conformant domain substrates: [health](https://github.com/frankxai/health-intelligence-system) · [research](https://github.com/frankxai/research-intelligence-os) · [library](https://github.com/frankxai/library-os) · [mind](https://github.com/frankxai/agentic-mind-os) · [music](https://github.com/frankxai/agentic-music-os) · [ocean](https://github.com/frankxai/blue-life-commons)
-- **Developer tools** — [mcp-doctor](https://github.com/frankxai/mcp-doctor) · [storage-intelligence](https://github.com/frankxai/storage-intelligence) · [peak-performance](https://github.com/frankxai/peak-performance) · [claude-code-hooks](https://github.com/frankxai/claude-code-hooks) · [prompt-engine](https://github.com/frankxai/prompt-engine)
-- **Knowledge** — [prompt-library](https://github.com/frankxai/prompt-library) · [ai-architect-academy](https://github.com/frankxai/ai-architect-academy) · [context-engineering-for-creators](https://github.com/frankxai/context-engineering-for-creators) · [kura](https://github.com/frankxai/kura)
+| Project | What it does |
+|---|---|
+| [Library OS](https://github.com/frankxai/library-os) | Turns books into permanent, source-rich deep dives |
+| [Second Brain OS](https://github.com/frankxai/second-brain-os) | Converts AI conversation exports into an Obsidian knowledge system |
+| [Suno MCP Server](https://github.com/frankxai/suno-mcp-server) | Creates and manages AI music from MCP clients |
+| [Blue Life Commons](https://github.com/frankxai/blue-life-commons) | Open Ocean Intelligence commons for research and conservation |
+| [Research Intelligence OS](https://github.com/frankxai/research-intelligence-os) | Source capture, synthesis, and reusable research workflows |
+| [Production Agent Patterns](https://github.com/frankxai/production-agent-patterns) | The same agent implemented across major production frameworks |
 
 ## Background
 
-Enterprise side: Oracle-certified AI Architect, solution design for AI Centers of Excellence, multi-cloud infrastructure, systems that need to work before they can scale. That work continues through [oci-ai-architects](https://github.com/oci-ai-architects).
-
-Creator side: 12,000+ AI songs made, which meant living with broken tooling every day — sessions that reset, nothing that remembered, no system that compounded. So I built the stack to fix that. SIS, ACOS, Arcanea, and the Hermes control-plane pattern are that stack, with public notes and selected implementation layers open-sourced.
+I came through enterprise AI and Oracle Cloud solution design, building AI Centers of Excellence, multi-agent systems, and infrastructure that had to work at production scale. I now apply that systems discipline to creator tools, open-source agent infrastructure, and creative intelligence.
 
 - Oracle-certified AI Architect
 - 12,000+ AI songs created
-- 200+ repositories across 4 GitHub organizations
-- [frankx.ai](https://frankx.ai) — the platform, built with Next.js, TypeScript, and ACOS
+- 200+ repositories across four GitHub organizations
+- Building in public at [frankx.ai](https://frankx.ai)
 
 ## Organizations
 
-**[frankxai](https://github.com/frankxai)** — Core infrastructure: Hermes, SIS, ACOS, Arcanea, creator tools, developer utilities.
+- **[frankxai](https://github.com/frankxai)** — Core infrastructure, Starlight, creator tools, and developer utilities
+- **[Arcanea-Labs](https://github.com/Arcanea-Labs)** — Creative intelligence platforms and companion systems
+- **[oci-ai-architects](https://github.com/oci-ai-architects)** — Enterprise AI architecture and Oracle Cloud resources
 
-**[Arcanea-Labs](https://github.com/Arcanea-Labs)** — Creative intelligence platform. Open-source agents and companion systems for creators building universes.
-
-**[oci-ai-architects](https://github.com/oci-ai-architects)** — Skills and architecture patterns for enterprise AI on Oracle Cloud, Cline, and multi-cloud infrastructure.
-
----
-
-<sub>Building in public at <a href="https://frankx.ai">frankx.ai</a> · <a href="https://github.com/frankxai/frankxai/blob/main/ECOSYSTEM.md">Full ecosystem map</a></sub>
+<sub>For the complete project map, see <a href="https://github.com/frankxai/frankxai/blob/main/ECOSYSTEM.md">ECOSYSTEM.md</a>.</sub>
