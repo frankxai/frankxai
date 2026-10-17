@@ -5,7 +5,7 @@
 <h1 align="center">Frank Riemer — AI architect</h1>
 
 <p align="center">
-  <strong>I build agent systems that survive production, and creative worlds worth returning to.</strong><br/>
+  <strong>Starlight Intelligence Architect, imaging the beautiful world you will create with the most powerful agentic systems and superintelligence</strong><br/>
   Formerly AI architect at Oracle's EMEA AI Center of Excellence. Now building in public at <a href="https://frankx.ai?utm_source=github&utm_medium=profile&utm_campaign=header">frankx.ai</a>.
 </p>
 
