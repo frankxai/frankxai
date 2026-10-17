@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/frankxai/frankxai/main/assets/profile-banner-v8.png" alt="Frank Riemer · AI architect · agent systems and creative worlds" width="100%" />
 </p>
 
-<h1 align="center">Frank Riemer — AI architect</h1>
+<h1 align="center">Frank Riemer — AI Architect</h1>
 
 <p align="center">
   <strong>Starlight Intelligence Architect, imaging the beautiful world you will create with the most powerful agentic systems and superintelligence</strong><br/>
