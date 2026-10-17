@@ -5,8 +5,9 @@
 <h1 align="center">Frank Riemer — AI Architect</h1>
 
 <p align="center">
-  <strong>Starlight Intelligence Architect, imaging the beautiful world you will create with the most powerful agentic systems and superintelligence</strong><br/>
-  Formerly AI architect at Oracle's EMEA AI Center of Excellence. Now building in public at <a href="https://frankx.ai?utm_source=github&utm_medium=profile&utm_campaign=header">frankx.ai</a>.
+  <strong>Starlight Intelligence Architect, Visionary needing your help to make open progress. From gaming, to web3 smart contracts and AI ecosystems. 
+    Imaging the beautiful world you will create with the most powerful agentic systems and superintelligence</strong><br/>
+  Formerly AI architect at Oracle's EMEA AI Center of Excellence. Now building in public at <a href="https://frankx.ai?utm_source=github&utm_medium=profile&utm_campaign=header">frankx.ai</a> & excited to work with you & your agents on a better world. 
 </p>
 
 ### Install the judgment
