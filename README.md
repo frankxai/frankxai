@@ -1,59 +1,46 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frankxai/frankxai/main/assets/profile-banner-v8.png" alt="Frank Riemer · AI architect · agent systems and creative worlds" width="100%" />
+  <img src="https://raw.githubusercontent.com/frankxai/frankxai/main/assets/profile-banner-v8.png" alt="Frank Riemer - AI architecture, agent systems and creative worlds" width="100%" />
 </p>
 
-<h1 align="center">Frank Riemer — AI Architect</h1>
+<h1 align="center">Frank Riemer · Founder & AI Architect</h1>
+
+<p align="center"><strong>Building intelligence that compounds.</strong></p>
+
+I build AI systems, creator tools and original worlds. My work connects the engineering behind useful intelligence with the craft of turning it into a product, a business or a story people care about.
+
+I'm based in Amsterdam. Formerly an AI Architect in Oracle's EMEA AI Center of Excellence, I now lead a founder portfolio across Starlight Intelligence, GenCreator and Arcanea, and share the work through [FrankX](https://frankx.ai).
+
+## Explore the work
+
+| Direction | What I'm building | Start here |
+| --- | --- | --- |
+| **Starlight Intelligence** | Portable context, agent coordination and ways to inspect the work an AI system performs. | [Reference system](https://github.com/frankxai/Starlight-Intelligence-System) · [Starlight](https://starlightintelligence.ai) |
+| **GenCreator & ACOS** | Creator workflows that connect an idea to writing, media and a finished release. | [Agentic Creator OS](https://github.com/frankxai/agentic-creator-os) · [Creator skills](https://github.com/frankxai/creator-skills) · [GenCreator](https://gencreator.ai) |
+| **Arcanea** | Original worlds, stories and tools for people who want to create inside them. | [Arcanea](https://github.com/frankxai/arcanea) · [Web application source](https://github.com/frankxai/arcanea-ai-app) · [Explore the world](https://arcanea.ai) |
+| **FrankX** | Practical architecture, founder field notes, education and creative experiments. | [Architecture skills](https://github.com/frankxai/skills) · [Writing and projects](https://frankx.ai) |
+
+Music is part of the practice. I compose, experiment with AI-assisted production and explore how sound changes the experience of a story or a working day.
+
+## Build with me
+
+I work with founders, creative teams and technology partners on three kinds of work:
+
+- **AI architecture and working prototypes:** turn an important workflow into a scoped system with clear ownership, evaluation and a usable handoff.
+- **Workshops and practical education:** help a team build something it can inspect, understand and continue.
+- **Product and creative collaborations:** develop useful tools, public demonstrations, original IP and thoughtful routes to market.
+
+For a collaboration, share the problem, who it serves and the result we could demonstrate together: [frank@frankx.ai](mailto:frank@frankx.ai).
+
+## How I lead
+
+I take responsibility for the quality of the work and the clarity of its promises. I approach the portfolio as a founder and investor: build useful assets, retain the ability to improve them and reinvest with a long horizon.
+
+The standard is simple: show the artifact, explain the decision, name what remains unresolved and give the next person something worth building on.
+
+[Portfolio and organization map](ECOSYSTEM.md) · [Bio and speaker copy](BIO.md)
 
 <p align="center">
-  <strong>Starlight Intelligence Architect, Visionary needing your help to make open progress. From gaming, to web3 smart contracts and AI ecosystems. 
-    Imaging the beautiful world you will create with the most powerful agentic systems and superintelligence</strong><br/>
-  Formerly AI architect at Oracle's EMEA AI Center of Excellence. Now building in public at <a href="https://frankx.ai?utm_source=github&utm_medium=profile&utm_campaign=header">frankx.ai</a> & excited to work with you & your agents on a better world. 
-</p>
-
-### Install the judgment
-
-```bash
-npx skills add frankxai/skills           # for AI architects: agent design, MCP, evals, production review
-npx skills add frankxai/creator-skills   # for creators: video, music, publishing, brand voice
-```
-
-The full catalog (100+ skills) lives in [claude-skills-library](https://github.com/frankxai/claude-skills-library).
-
-**→ [Join Signal Loop](https://frankx.ai/newsletter?utm_source=github&utm_medium=profile&utm_campaign=signal-loop)** — one weekly letter: what I shipped, what broke, what to steal.
-
----
-
-### Pick your door
-
-| You are… | Start free | Go deeper |
-|---|---|---|
-| An engineer who was just handed the AI work | [`skills`](https://github.com/frankxai/skills) · [AI Architect Academy](https://github.com/frankxai/ai-architect-academy) | [Foundry install](https://frankx.ai/foundry?utm_source=github&utm_medium=profile&utm_campaign=door-architect) |
-| A creator shipping every day | [`creator-skills`](https://github.com/frankxai/creator-skills) · [Agentic Creator OS](https://github.com/frankxai/agentic-creator-os) | [ACOS Creator Kit](https://frankx.ai/acos?utm_source=github&utm_medium=profile&utm_campaign=door-creator) |
-| A builder of worlds | [Arcanea](https://github.com/frankxai/arcanea) | [arcanea.ai](https://arcanea.ai?utm_source=github&utm_medium=profile&utm_campaign=door-worlds) |
-
-### The stack underneath
-
-| Layer | Repo | Job |
-|---|---|---|
-| Learn | [ai-architect-academy](https://github.com/frankxai/ai-architect-academy) | Labs you run with a coding agent: RAG, multi-agent, MCP |
-| Decide | [ai-architect](https://github.com/frankxai/ai-architect) | Gated architecture lifecycle with evidence, economics and security |
-| Operate | [Starlight Intelligence System](https://github.com/frankxai/Starlight-Intelligence-System) | Memory, governance, orchestration and evals for agents |
-| Execute | [agentic-creator-os](https://github.com/frankxai/agentic-creator-os) | Skills, commands and agents for creators and builders |
-| Create | [arcanea](https://github.com/frankxai/arcanea) | Creative intelligence for worldbuilding and publishing |
-
-<details>
-<summary><b>More: OCI and cross-cloud, open commons, tools</b></summary>
-
-- **OCI and multi-cloud:** [oci-ai-architects](https://github.com/oci-ai-architects) · [Multi-Cloud AI Architect](https://github.com/oci-ai-architects/multi-cloud-ai-architect) · [OCI GenAI Guides](https://github.com/oci-ai-architects/oci-genai-guides)
-- **Open commons:** [Blue Life Commons](https://github.com/frankxai/blue-life-commons) · [Research Intelligence OS](https://github.com/frankxai/research-intelligence-os) · [Library OS](https://github.com/frankxai/library-os)
-- **Tools:** [Suno MCP Server](https://github.com/frankxai/suno-mcp-server) · [Second Brain OS](https://github.com/frankxai/second-brain-os) · [Production Agent Patterns](https://github.com/frankxai/production-agent-patterns)
-- **Map of everything:** [ECOSYSTEM.md](https://github.com/frankxai/frankxai/blob/main/ECOSYSTEM.md)
-
-</details>
-
-<p align="center">
-  <a href="https://frankx.ai?utm_source=github&utm_medium=profile&utm_campaign=footer">frankx.ai</a> ·
+  <a href="https://frankx.ai">frankx.ai</a> ·
   <a href="https://www.linkedin.com/in/frank-x-riemer/">LinkedIn</a> ·
-  <a href="https://www.youtube.com/@frankxai">YouTube</a> ·
-  Oracle-certified AI Architect · 12,000+ AI songs made
+  <a href="https://www.youtube.com/@frankxai">YouTube</a>
 </p>
